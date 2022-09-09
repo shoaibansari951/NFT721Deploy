@@ -1,0 +1,15 @@
+{
+  "name": "erc721-nftdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.26",
+    "nodemon": "^2.0.19"
+  }
+}
